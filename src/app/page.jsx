@@ -39,7 +39,7 @@ export default function FurnitureLanding() {
   return (
     <div className={`min-h-screen ${darkMode ? "dark" : ""}`}>
       {/* HERO */}
-      <div className="bg-gradient-to-br from-teal-700 to-teal-900 dark:bg-gradient-to-br dark:from-teal-900 dark:to-gray-900 dark:via-gray-800 min-h-screen lg:px-20">
+      <div className="bg-gradient-to-br from-teal-700 to-teal-900 dark:bg-gradient-to-br dark:from-teal-900 dark:to-gray-900 dark:via-gray-800 min-h-screen ">
         <Header />
 
         <div className="px-6 py-20 grid lg:grid-cols-2 gap-12 items-center">
